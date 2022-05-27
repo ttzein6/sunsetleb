@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
+*{
+    font-family: 'Comforter', cursive;
+
+}
+.bg-sunset{
+    background-color: #f3d5b0;
+}
+.bg-sunset-dark{
+    background-color: #f8dab5;
+}
+.nav-imgs{
+    width: 48px;
+    background-color: black;
+    border-radius: 50%;
+}
+.active{
+    background-color: rgba(211, 211, 211, 0.274) !important;
+}
+.button-discord{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    width:8vw;
+    border-radius: 10px;
+    position: relative;
+}
+.button-discord span{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.opensea{
+    filter: invert(100%);
+}
+.logo{
+    text-decoration: none;
+}
